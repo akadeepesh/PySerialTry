@@ -1,0 +1,7 @@
+Com port: COM3 - Board: Arduino Uno (COM3)
+Com port: COM8 - Board: USB Serial Device (COM8)
+Com port: COM12 - Board: USB Serial Device (COM12)
+Com port: COM13 - Board: USB Serial Device (COM13)
+Com port: COM6 - Board: USB Serial Port (COM6)
+Com port: COM5 - Board: Bossa Program Port (COM5)
+Com port: COM3 - Board: Arduino Uno (COM3)
